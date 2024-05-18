@@ -1,8 +1,5 @@
 # This is my solution to the FreeCodeCamp Machine Learning Certification project Rock Paper Scissors.
 
-# Project requirements can be found here : https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
-
-
 def player(last_move, history=[], sequences={}):
 
   # This function plays Rock paper scissors using a Markov chain.
